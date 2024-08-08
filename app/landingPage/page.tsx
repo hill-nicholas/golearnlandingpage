@@ -283,7 +283,7 @@ export default function LandingPage() {
         </div>
       </footer>
       <div className="bg-blue-700 p-5 px-10 md:px-14 lg:px-32 text-blue-100 mt-10">
-        <p>Copyright 2024, GoLearn Inc. All rights reserved.  hkh sdhjh hh  </p>
+        <p>Copyright 2024, GoLearn Inc. All rights reserved. </p>
       </div>
     </main>
   );
