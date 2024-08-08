@@ -169,7 +169,7 @@ export default function LandingPage() {
 
       </div>
       <section className="px-10 md:px-14 lg:px-80 pt-20">
-        <h1 className=" text-base lg:text-3xl font-semibold">FAQ's</h1>
+        <h1 className=" text-base lg:text-3xl font-semibold">FAQ&apos;s</h1>
         <AccordionDemo />
       </section>
       <div className="w-full flex justify-center items-center lg:pt-20 md:pt-10">
